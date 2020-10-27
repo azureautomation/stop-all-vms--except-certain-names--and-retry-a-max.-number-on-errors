@@ -1,0 +1,20 @@
+{
+    "Author": "Elmar Calbo",
+    "ContentSize": 3261,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-all-vms,-except-certain-names,-and-retry-a-max.-number-on-errors/master/StopAllVMs.ps1",
+    "DownloadCount": 1164,
+    "Id": "Stop-all-VMs-except-346153f0",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 544,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-11-1T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook will connect to an Azure subscription and switch all Virtual Machines to a Stopped (Deallocated) State but can skip any machine with a certain name. It uses a do-loop, in combination with a try-catch to retry a maximum number of 30 times in case of an error.",
+    "Title": "Stop all VMs, except certain names, and retry a max. number on errors",
+    "UpdatedDate": "2014-11-1T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-all-vms,-except-certain-names,-and-retry-a-max.-number-on-errors",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, Windows Azure PowerShell"
+}
